@@ -5,3 +5,4 @@
 3. O código novo quebra alguma funcionalidade existente?
 4. A lógica implementada é clara e possui comentários onde necessário?
 5. Existem testes cobrindo essa nova funcionalidade (se aplicável)?
+6. teste
